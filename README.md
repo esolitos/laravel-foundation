@@ -1,3 +1,5 @@
+This is a fork from ``aheissenberger/foundation``, intended to port it to Foundation 5.
+
 # Laravel 4 zurb foundation 4.x helper
 
 This package does not include the framework. It requires the official framework composer package from zurb and provides command line tools to setup foundation for development with laravel and compass.
